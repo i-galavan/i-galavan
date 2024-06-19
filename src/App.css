@@ -1,0 +1,68 @@
+body {
+  margin: 0;
+  font-family: 'Arial', sans-serif;
+  background: linear-gradient(45deg, #ffafbd, #ffc3a0);
+  color: #333;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  padding: 20px;
+  color: white;
+}
+
+.App-header h1 {
+  font-size: 3em;
+  margin: 0;
+}
+
+.App-header p {
+  font-size: 1.2em;
+}
+
+section {
+  padding: 20px;
+}
+
+h2 {
+  font-size: 2em;
+  color: #282c34;
+}
+
+.about, .skills, .projects, .contact {
+  background: white;
+  margin: 20px;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.skills ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.skills li {
+  display: inline-block;
+  background: #282c34;
+  color: white;
+  padding: 10px 20px;
+  margin: 5px;
+  border-radius: 20px;
+}
+
+.project-card {
+  background: #282c34;
+  color: white;
+  padding: 20px;
+  margin: 10px;
+  border-radius: 10px;
+}
+
+.contact p {
+  font-size: 1.2em;
+}
