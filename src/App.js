@@ -27,17 +27,7 @@ function App() {
         </ul>
       </section>
       
-      // <section className="projects">
-      //   <h2>Projects</h2>
-      //   <div className="project-card">
-      //     <h3>Project One</h3>
-      //     <p>A web application for tracking personal expenses.</p>
-      //   </div>
-      //   <div className="project-card">
-      //     <h3>Project Two</h3>
-      //     <p>A social media platform for connecting with friends.</p>
-      //   </div>
-      // </section>
+
       
       <section className="contact">
         <h2>Contact</h2>
